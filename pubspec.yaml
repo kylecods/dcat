@@ -1,0 +1,14 @@
+name: dcat
+description: A command line file reader.
+version: 1.0.0
+
+
+environment:
+  sdk: '>=2.16.2 <3.0.0'
+
+
+dependencies:
+  args: ^2.3.0
+
+dev_dependencies:
+  lints: ^1.0.0
