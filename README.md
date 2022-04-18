@@ -5,7 +5,7 @@ A program similar to **cat** in linux that reads files on the console. It is wri
 #### Planned extra features:
 
 - [ ] Allow file creation
-- [ ] Add syntax highlight support.
+- [X] Add syntax highlight support.
 
 #### Running the application
 

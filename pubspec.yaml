@@ -9,6 +9,8 @@ environment:
 
 dependencies:
   args: ^2.3.0
+  colorize: any
+
 
 dev_dependencies:
   lints: ^1.0.0
