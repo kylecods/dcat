@@ -12,14 +12,24 @@ A program similar to **cat** in linux that reads files on the console. It is wri
 To run the program to show line numbers:
 
 ```bash
-dcat --showLine hello.txt
+dcat --showLine hello.dart
 ```
 or
 ```bash
-dcat -s hello.txt
+dcat -s hello.dart
+```
+To run the program with syntax highlighting support:
+
+```bash
+dcat --showHighlight hello.dart
+```
+or
+```bash
+dcat -l hello.dart
 ```
 
 Without line numbers
 ```bash
-dcat hello.txt
+dcat hello.dart
 ```
+
